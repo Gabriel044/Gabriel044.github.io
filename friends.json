@@ -12,5 +12,6 @@
   {"name": "Laura", "age": "28", "hobby": "Anime", "phone": "3318237918", "address": "Av. Independencia"},
   {"name": "Guillermo", "age": "26", "hobby": "Videogames", "phone": "3374214399", "address": "Av. Benito Juarez"},
   {"name": "Toby", "age": "60", "hobby": "comics", "phone": "3322214399", "address": "Av. Miguel Angel"},
-  {"name": "Angelica", "age": "50", "hobby": "dormir", "phone": "3322281399", "address": "Av. Americas"}
+  {"name": "Angelica", "age": "50", "hobby": "dormir", "phone": "3322281399", "address": "Av. Americas"},
+  {"name": "Martin", "age": "45", "hobby": "Rugby", "phone": "3309281399", "address": "Av. Naciones Unidas"}
 ]
